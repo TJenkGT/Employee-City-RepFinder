@@ -1,0 +1,21 @@
+{
+  "name": "Employee-City-RepFinder",
+  "version": "1.0.0",
+  "description": "City Representative Finder",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TJenkGT/Employee-City-RepFinder.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TJenkGT/Employee-City-RepFinder/issues"
+  },
+  "homepage": "https://github.com/TJenkGT/Employee-City-RepFinder#readme"
+}
