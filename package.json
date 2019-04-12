@@ -17,5 +17,8 @@
   "bugs": {
     "url": "https://github.com/TJenkGT/Employee-City-RepFinder/issues"
   },
-  "homepage": "https://github.com/TJenkGT/Employee-City-RepFinder#readme"
+  "homepage": "https://github.com/TJenkGT/Employee-City-RepFinder#readme",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
 }
